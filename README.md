@@ -1,6 +1,6 @@
 # Practical LLM and GPT applications
 
-This project aims at harnessing the power of Large language model and applying them to application that are very practical and bring value beyond what chat GPT can offer. 
+This project aims at harnessing the power of Large language models and applying them to application that are very practical and bring value beyond what chat GPT can offer. 
 
 
 ## content:
