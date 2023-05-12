@@ -1,0 +1,9 @@
+openai
+glob
+streamlit
+tiktoken
+langchain
+deeplake
+scipy
+transformers
+llama-index
