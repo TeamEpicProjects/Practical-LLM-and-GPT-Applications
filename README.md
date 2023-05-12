@@ -1,9 +1,9 @@
-# Practical LLM and GPT applications
+# Practical LLM and GPT Applications
 
 This project aims at harnessing the power of Large language models and applying them to application that are very practical and bring value beyond what chat GPT can offer. 
 
 
-## content:
+## Use Cases included in Repository:
 
 1. Embeddings based question answering 
 
